@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Raytracing_Nextweek"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\local\;CMake Files\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\usr\local\lib\cmake\glog\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/chenglh/CLionProjects/Raytracing_Nextweek/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/chenglh/CLionProjects/Raytracing_Nextweek/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/chenglh/CLionProjects/Raytracing_Nextweek/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/chenglh/CLionProjects/Raytracing_Nextweek/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/chenglh/CLionProjects/Raytracing_Nextweek/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/chenglh/CLionProjects/Raytracing_Nextweek/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/chenglh/CLionProjects/Raytracing_Nextweek/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/chenglh/CLionProjects/Raytracing_Nextweek/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/chenglh/CLionProjects/Raytracing_Nextweek/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/chenglh/CLionProjects/Raytracing_Nextweek/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/chenglh/CLionProjects/Raytracing_Nextweek/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/chenglh/CLionProjects/Raytracing_Nextweek/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/chenglh/CLionProjects/Raytracing_Nextweek/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/chenglh/CLionProjects/Raytracing_Nextweek/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/chenglh/CLionProjects/Raytracing_Nextweek/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Raytracing_Nextweek">
+				<Option output="/Users/chenglh/CLionProjects/Raytracing_Nextweek/cmake-build-debug/Raytracing_Nextweek" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/chenglh/CLionProjects/Raytracing_Nextweek/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/chenglh/CLionProjects/Raytracing_Nextweek/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/chenglh/CLionProjects/Raytracing_Nextweek/cmake-build-debug/Makefile&quot;  VERBOSE=1 Raytracing_Nextweek"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/chenglh/CLionProjects/Raytracing_Nextweek/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/chenglh/CLionProjects/Raytracing_Nextweek/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/chenglh/CLionProjects/Raytracing_Nextweek/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Raytracing_Nextweek/fast">
+				<Option output="/Users/chenglh/CLionProjects/Raytracing_Nextweek/cmake-build-debug/Raytracing_Nextweek" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/chenglh/CLionProjects/Raytracing_Nextweek/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/chenglh/CLionProjects/Raytracing_Nextweek/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/chenglh/CLionProjects/Raytracing_Nextweek/cmake-build-debug/Makefile&quot;  VERBOSE=1 Raytracing_Nextweek/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/chenglh/CLionProjects/Raytracing_Nextweek/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/chenglh/CLionProjects/Raytracing_Nextweek/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/chenglh/CLionProjects/Raytracing_Nextweek/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/chenglh/CLionProjects/Raytracing_Nextweek/main.cpp">
+			<Option target="Raytracing_Nextweek"/>
+		</Unit>
+		<Unit filename="/Users/chenglh/CLionProjects/Raytracing_Nextweek/src/bvh.cpp">
+			<Option target="Raytracing_Nextweek"/>
+		</Unit>
+		<Unit filename="/Users/chenglh/CLionProjects/Raytracing_Nextweek/src/camera.cpp">
+			<Option target="Raytracing_Nextweek"/>
+		</Unit>
+		<Unit filename="/Users/chenglh/CLionProjects/Raytracing_Nextweek/src/hittable_list.cpp">
+			<Option target="Raytracing_Nextweek"/>
+		</Unit>
+		<Unit filename="/Users/chenglh/CLionProjects/Raytracing_Nextweek/src/moving_sphere.cpp">
+			<Option target="Raytracing_Nextweek"/>
+		</Unit>
+		<Unit filename="/Users/chenglh/CLionProjects/Raytracing_Nextweek/src/spectrum.cpp">
+			<Option target="Raytracing_Nextweek"/>
+		</Unit>
+		<Unit filename="/Users/chenglh/CLionProjects/Raytracing_Nextweek/src/sphere.cpp">
+			<Option target="Raytracing_Nextweek"/>
+		</Unit>
+		<Unit filename="/Users/chenglh/CLionProjects/Raytracing_Nextweek/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/chenglh/CLionProjects/Raytracing_Nextweek/../../../../usr/local/lib/cmake/glog/glog-config-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\glog\"/>
+		</Unit>
+		<Unit filename="/Users/chenglh/CLionProjects/Raytracing_Nextweek/../../../../usr/local/lib/cmake/glog/glog-config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\glog\"/>
+		</Unit>
+		<Unit filename="/Users/chenglh/CLionProjects/Raytracing_Nextweek/../../../../usr/local/lib/cmake/glog/glog-modules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\glog\"/>
+		</Unit>
+		<Unit filename="/Users/chenglh/CLionProjects/Raytracing_Nextweek/../../../../usr/local/lib/cmake/glog/glog-targets-noconfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\glog\"/>
+		</Unit>
+		<Unit filename="/Users/chenglh/CLionProjects/Raytracing_Nextweek/../../../../usr/local/lib/cmake/glog/glog-targets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\glog\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

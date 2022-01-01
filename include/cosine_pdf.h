@@ -1,0 +1,9 @@
+//
+// Created by 程龙昊 on 2021/12/26.
+//
+
+#ifndef RAYTRACING_NEXTWEEK_COSINE_PDF_H
+#define RAYTRACING_NEXTWEEK_COSINE_PDF_H
+#include <onb.h>
+
+#endif //RAYTRACING_NEXTWEEK_COSINE_PDF_H
